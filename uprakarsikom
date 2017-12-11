@@ -1,0 +1,57 @@
+--------------
+Kabel LAN
+--------------
+penghubung jaringan pada komputer yang menggunakan kabel
+
+Kabel LAN itu ada 3
+
+Straight Cross Rollover
+
+Straight 
+1  1
+2  2
+3  3
+4  4
+5  5
+6  6
+7  7
+8  8
+
+Cross
+1  3
+2  6
+3  1
+4  2
+5  4
+6  5
+7  7
+8  8
+
+rollover
+1  8
+2  7
+3  3
+4  6
+5  4
+6  5
+7  2
+8  1
+
+pituh hijau
+hijau
+putih oren
+biru 
+putih biru
+oren
+putih coklat
+coklat
+
+Konektor untuk kabel lan adalah RJ 45
+
+
+Hardisk 
+
+Flash Drive
+
+WLAN
+
