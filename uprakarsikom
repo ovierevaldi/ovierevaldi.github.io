@@ -51,7 +51,74 @@ Konektor untuk kabel lan adalah RJ 45
 UTP = Untwisted Pair Cable
 STP = Shielded Twisted Pair
 
+-------
 Hardisk 
+-------
+Hardisk merupakan media penyimpanan data pada komputer
+
+tipe tipe hardisk
+
+ATA / EIDE : Advanced Technology Attachment
+SCSI : 
+RAID : 
+SATA : Hardisk ATA dengan versi Serial
+SSD  : Solid State Drive
+
+Komponen Komponen pada hardisk
+
+USB 1.0 -> 1,5 Mb/sec
+USB 2.0 -> 60 Mb/sec
+USB 3.0 -> 625 Mb/sec
+
+Perangkat Flash Drive
+1. Sambungan USB
+2. Perangkat pengontrol penyimpanan massal USB
+3. Titik Uji
+4. Chip memori Kilat
+5. Oscilator Kristal
+6. LED
+7. Write-Protect Switch
+8. Ruang kosong untuk cip memori kilat kedua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Flash Drive
 
