@@ -1,0 +1,17 @@
+If IsNull(Me.username) Then
+    MsgBox "Tolong Masukan Username ", vbInformation, "Username Required"
+    Me.username.SetFocus
+    
+    ElseIf IsNull(Me.password) Then
+    MsgBox "Tolong Masukan Password ", vbInformation, "Password Required"
+    Me.password.SetFocus
+    
+    Else 'process the job'
+    If (IsNull(DLookup("username", "tbladmin", "username ='" & Me.username.Value & "'"))) Or _
+    (IsNull(DLookup("password", "tbladmin", "password ='" & Me.password.Value & "'"))) Then
+    MsgBox "Username Atau Password Salah"
+    Else
+        DoCmd.Close
+        DoCmd.OpenForm "dataadmin"
+    End If
+    End If
